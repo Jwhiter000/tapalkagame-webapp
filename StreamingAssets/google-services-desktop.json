@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47998531696",
+    "project_id": "tapalkagame-702f3",
+    "storage_bucket": "tapalkagame-702f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47998531696:android:825abafef230d851361cb5",
+        "android_client_info": {
+          "package_name": "com.anonymous.tapalkagame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFNwavPKbROIJTgNfnDF0AU9WB088JSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-2198521345229438~6982907403"
+    }
+  ],
+  "configuration_version": "1"
+}
